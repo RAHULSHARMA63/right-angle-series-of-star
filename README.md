@@ -1,0 +1,1 @@
+# right-angle-series-of-star
